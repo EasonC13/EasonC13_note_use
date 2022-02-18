@@ -1,13 +1,13 @@
 ## About Eason Chen
 
 - 🔭 I’m currently studing Learning Science, a major about Learning, at NTNU.
-- 🎓 I will graduate at 2022/6, please contact me if you have any working opportunity.
+- 🎓 I plan to graduate at 2022/6, please contact me if you have any working opportunity.
 - 💬 Feel free to ask me about anything.
 - 📫 How to reach me? Please visit https://eason.tw
 
 If you have interesting project, welcome to invite me for contribution.
 
-### My Development Interest:
+### Topic of Interest:
 - Research Paper Writing
 - Blockchain Application
 - NLP, AI Chatbot
