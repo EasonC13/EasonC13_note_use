@@ -1,6 +1,6 @@
 ## About Eason Chen
 
-> For my latest profile, please visit https://eason.best/
+> For my latest Curriculum Vitae, please visit https://eason.best/
 
 - 🌐 Please visit [Eason.best](https://eason.best/) to know more about me. 
 - 🎓 I’m currently studing Learning Science at National Taiwan Normal University.
