@@ -1,3 +1,1 @@
-## About Eason Chen
-
-- 🌐 Please visit [Eason.best](https://eason.best/) to know more about me. 
+🌐 Please visit [Eason.best](https://eason.best/) to know more about me. 
